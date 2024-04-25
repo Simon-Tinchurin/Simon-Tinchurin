@@ -7,6 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+</div>
+
 <!--
 **Simon-Tinchurin/Simon-Tinchurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
