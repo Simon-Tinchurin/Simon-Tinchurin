@@ -2,7 +2,7 @@
 
 ### About me:
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200" align="right" /><br>
 
 <!--
 <a href="https://www.linkedin.com/in/simon-tinchurin-b75069254/">
