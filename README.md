@@ -1,14 +1,22 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/simon-tinchurin-b75069254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## Hi there, I'm Simon 👋
 
-### :hammer_and_wrench: Languages and Tools :
+### About me:
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200" align="right" />
+
+<!--
+<a href="https://www.linkedin.com/in/simon-tinchurin-b75069254/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right" />
+</a>
+-->
+
+- Software developer at [Csira Vision](https://csira.io)
+- I’m currently learning Golang
+- Contribute code to [Upstrima](https://gain.energy/)
+- Creating bugs since 2021
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
