@@ -2,14 +2,15 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200" align="right" />
 
-### About me:
+### 💻 About me:
 - Software developer at [Csira Vision](https://csira.io)
 - I’m currently learning Golang
 - Contribute code to [Upstrima](https://gain.energy/)
 - Creating bugs since 2021
 - My [Linkedin](https://www.linkedin.com/in/simon-tinchurin-b75069254/)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+---
+<h3> 🚀 &nbsp;Some Tools I Have Used and Learned:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -30,3 +31,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simon-Tinchurin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Simon-Tinchurin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Simon-Tinchurin/count.svg?"  />
+</div>
