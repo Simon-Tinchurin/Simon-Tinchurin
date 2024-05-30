@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzdnZ5ZWd2MHBrb215cW03N3Z6bTd2b2kxNHhzbnNueGNhdDN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="200" align="right" />
 
 ### 💻 About me:
-- Software developer at [Csira Vision](https://csira.io)
+- Software developer at [Aistrospace](https://aistrospace.com/)
 - I’m currently learning Golang
 - Contribute code to [Upstrima](https://gain.energy/)
 - Creating bugs since 2021
